@@ -117,7 +117,7 @@ Discussion
 "Devilish iron horse" and "Aeolian harp": artistic responses to industrialization
 {{< tdclose >}}{{< tdopen >}}
 
-Thoreau, Henry David. "Where I Lived, and What I Lived For," "Sounds," "Solitude," "Spring," and "Conclusion." In *Walden*. 1854. ([View text at Gutenberg.org](https://gutenberg.org/cache/epub/205/pg205-images.html).)
+Thoreau, Henry David. "Where I Lived, and What I Lived For," "Sounds," "Solitude," "Spring," and "Conclusion." In *Walden*. 1854. ({{% resource_link "02baec64-2383-4b2d-839a-09e10123e143" "View text at Gutenberg.org" %}}.)
 
 Marx, L. *The Machine in the Garden: Technology and the Pastoral Ideal in America*. New York, NY: Oxford University Press, 2000, pp. 242-265. ISBN: 9780195133516.
 
@@ -138,7 +138,7 @@ Discussion
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
-View film: [*The Iron Road*](http://www.pbs.org/wgbh/amex/iron/). Directed by Neil Goodwin. PBS: The American experience, 1990, 60 min.
+View film: {{% resource_link "8b13e47f-f3e3-409d-ad1f-12141c65a210" "*The Iron Road*" %}}. Directed by Neil Goodwin. PBS: The American experience, 1990, 60 min.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -163,9 +163,9 @@ Cronon, William. *Nature's Metropolis: Chicago and the Great West*. New York, NY
 12
 {{< tdclose >}}{{< tdopen >}}
 
-View films: *The Plow That Broke the Plains*. Directed by Pare Lorentz, 1936, 25 min. ([View and download](http://www.archive.org/details/plow_that_broke_the_plains) at the Internet Archive.)
+View films: *The Plow That Broke the Plains*. Directed by Pare Lorentz, 1936, 25 min. ({{% resource_link "58828272-0051-4372-bbe0-a50eaaee8bd0" "View and download" %}} at the Internet Archive.)
 
-*The River*. Directed by Pare Lorentz, 1938, 31 min. (View and download ([Part 1](http://www.archive.org/details/RiverThe1937), [Part 2](http://www.archive.org/details/RiverThe1937_2)) at the Internet Archive).
+*The River*. Directed by Pare Lorentz, 1938, 31 min. (View and download ({{% resource_link "511c490a-fd38-46f9-87d7-121c4f9f776b" "Part 1" %}}, {{% resource_link "bad2f3f8-6be7-46a4-b25b-33649d5595b3" "Part 2" %}}) at the Internet Archive).
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -221,9 +221,9 @@ Conservation and the scientific management of nature
 Discussion
 {{< tdclose >}}{{< tdopen >}}
 
-Pinchot, Gifford. "Prosperity," "The New Patriotism," and "The Present Battle." Chapters 1, 11 and 12 in *The Fight for Conservation*. New York, NY: Doubleday, Page & Co., 1910. ({{% resource_link "eb7280d5-7b70-8fb3-bcee-2d1569f0433c" "PDF" %}}) ([Download complete work](http://www.gutenberg.org/etext/11238) from Project Gutenberg.)
+Pinchot, Gifford. "Prosperity," "The New Patriotism," and "The Present Battle." Chapters 1, 11 and 12 in *The Fight for Conservation*. New York, NY: Doubleday, Page & Co., 1910. ({{% resource_link "eb7280d5-7b70-8fb3-bcee-2d1569f0433c" "PDF" %}}) ({{% resource_link "02f59ebc-9be1-4a80-8518-0a6766928dfc" "Download complete work" %}} from Project Gutenberg.)
 
-Muir, John. "The Wild Parks and Forest Reservations of the West." Chapter 1 in *Our National Parks*. Boston, MA: Houghton Mifflin & Co., 1901, pp. 1-36. ({{% resource_link "cfbe30cc-bbb8-684e-8ec0-21c5a9186fb7" "PDF - 4.3 MB" %}}) ([View and download the complete work](http://www.archive.org/details/nationalparksour00muirrich) from The Internet Archive.)
+Muir, John. "The Wild Parks and Forest Reservations of the West." Chapter 1 in *Our National Parks*. Boston, MA: Houghton Mifflin & Co., 1901, pp. 1-36. ({{% resource_link "cfbe30cc-bbb8-684e-8ec0-21c5a9186fb7" "PDF - 4.3 MB" %}}) ({{% resource_link "cbe26fe8-0067-4d3b-87ac-3233a6529cb0" "View and download the complete work" %}} from The Internet Archive.)
 
 Cronon, William. "The Trouble with Wilderness." In *Uncommon Ground: Toward Reinventing Nature*. Edited by William Cronon. New York, NY: W.W. Norton & Co., 1995, pp. 69-90. ISBN: 9780393038729.
 
@@ -238,7 +238,7 @@ Steinberg, Theodore. *Down to Earth: Nature's Role in American History*. New Yor
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
-View film: [*Cadillac Desert*](http://www.imdb.com/title/tt0118279/). Directed by Jon Else and Linda Harrar, 1997, 60 min.
+View film: {{% resource_link "ef2203b6-eeec-4fa6-ba30-04b409566845" "*Cadillac Desert*" %}}. Directed by Jon Else and Linda Harrar, 1997, 60 min.
 {{< tdclose >}}{{< tdopen >}}
 Worster, pp. 10-25 and 100-180.
 {{< tdclose >}}{{< tdopen >}}

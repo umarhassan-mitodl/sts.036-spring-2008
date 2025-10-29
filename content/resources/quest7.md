@@ -5,8 +5,6 @@ description: "Reading questions for Cronon, Nature\u2019s Metropolis (Ch. 3 \u20
 file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/36ea332eee2a4e081f37214bccae7398_quest7.pdf
 file_size: 71670
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

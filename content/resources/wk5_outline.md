@@ -6,8 +6,6 @@ description: "Lecture outline on artistic responses to industrialization, seeing
 file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/46419124c5f5710024f6ca08dd46712d_wk5_outline.pdf
 file_size: 70223
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
